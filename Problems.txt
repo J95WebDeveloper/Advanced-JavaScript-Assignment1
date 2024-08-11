@@ -1,0 +1,18 @@
+Problem 1: Create a Map in JavaScript and perform the following operations
+            * Add key-value pairs to the Map
+            * Check if a specific key exists
+            * Retrieve the value associated with a given key
+            * Iterate through all key-value pairs.
+
+Problem 2 : Create a Map to store contact information (name, age, email, location) and implement a function to retrieve 
+            contact details by name.
+
+Problem 3 : You are given an array of numbers named myArray. Create a function that takes any number of arguments 
+            and adds them to the existing array. Use the spread and rest operator.
+
+Problem 4 : Create an object car with properties brand, model, and a method displayDetails that prints "Brand: [brand], 
+            Model: [model]". Test the method using this keyword.
+
+Problem 5 : Create two objects person1 and person2 with properties name and age. Create a function “introduce” that 
+            prints "Hello, I'm [name], and I'm [age] years old." Use the call method to make person2 introduce itself 
+            using the introduce function.
